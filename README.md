@@ -10,11 +10,11 @@ I'm Linh from VietNam, and I do content on Design and Development. I really enjo
 
 - 🤝 I’m looking for help with **Angular, ReactJS, NextJS, ThreeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/xnguyenvanlinh](https://github.com/xnguyenvanlinh)
+- 👨‍💻 All of my projects are available at [https://github.com/truongmanhdung](https://github.com/truongmanhdung)
 
 - 💬 Ask me about **HTML, CSS**
 
-- 📫 How to reach me **xnguyenvanlinh@gmail.com**
+- 📫 How to reach me **truongmanhdung0401@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
